@@ -22,3 +22,22 @@ O repositório foi criado por **Leonor Correia (Student ID: 122992)** pois a col
 | Navio de 2 canhões       | Caravela      | Caravel  | 2        | 3        |
 | Submarino                | Barca         | Barge    | 1        | 4        |
 
+## Regras do Jogo
+
+### 1. Preparação
+* Os navios devem ser posicionados na grelha antes do início da partida.
+
+### 2. Jogabilidade (Fluxo da Partida)
+* **Ataque:** Cada jogador, na sua vez, efetua uma rajada de **três tiros** sobre a frota adversária.
+* **Coordenadas:** O jogador deve indicar explicitamente as coordenadas de cada tiro (linha, coluna).
+* **Feedback:** O adversário deve reportar o resultado da rajada, informando:
+    * Tiros na água;
+    * Se acertou em algum navio;
+    * O tipo de navio atingido.
+
+### 3. Registo e Pontuação
+* Cada jogador deve registar os resultados dos seus tiros na **grelha do oponente**.
+* É necessário identificar e marcar os navios que forem totalmente afundados.
+
+### 4. Condição de Vitória
+* Ganha o jogo o primeiro jogador que conseguir **atingir e afundar todos os navios** da frota adversária.
