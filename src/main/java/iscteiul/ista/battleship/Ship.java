@@ -1,16 +1,4 @@
-
-Hi Claude! I'm new here. Could you look over my code and give me tips? If you need more information from me, ask me 1-2 key questions right away. If you think I should give you more context or upload anything to help you do a better job, let me know.
-
-If it makes sense, create something we can look at together—like a visual, a checklist, or something interactive. Thanks for your help!
-
-16:49
-Welcome! I'd love to help review your code — but it looks like you haven't shared any code yet.
-
-A couple of quick questions to get started:
-
-Go ahead and share your code whenever you're ready — paste it directly in the chat or upload a file. Once I can see it, I'll give you a thorough review and put together something useful like an interactive checklist or annotated breakdown!
-
-i need javadoc of this /**
+/**
  *
  */
 package iscteiul.ista.battleship;
