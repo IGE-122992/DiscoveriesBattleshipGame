@@ -19,6 +19,10 @@ package iscteiul.ista.battleship;
 
 import java.util.Objects;
 
+/**
+ *
+ * <p>Infelizmente já tinha feito tudo no GitHub.</p>
+ */
 public class Position implements IPosition {
 
     /** Zero-based row coordinate of this position. */
