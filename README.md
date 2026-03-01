@@ -8,9 +8,11 @@ O repositório foi criado por **Leonor Correia (122992)** pois a colega com meno
 | Nickname | Curso | Nome              | Número  |
 |----------|--------|------------------|---------|
 | iclr     | IGE    | Irina Munteanu   | 123029  |
-| iclr     | IGE    | Carolina Avelãs  | 123008  |
+| iclr     | IGE    | Carolina Avelãs *| 123008  |
 | iclr     | IGE    | Leonor Correia   | 122992  |
 | iclr     | IGE    | Raquel Almeida   | 122982  |
+
+*por erro técnico, a minha outra conta (the-bat-harpy) fez um commit
 
 ## Tipos de Navios
 
