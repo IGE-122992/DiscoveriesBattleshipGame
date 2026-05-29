@@ -1,4 +1,5 @@
- /**
+package iscteiul.ista.battleship;
+/**
  * Represents a Barge (Barca) ship in the Discoveries Battleship Game.
  *
  * <p>The Barge is the smallest vessel in the fleet, occupying a single cell on the grid.
@@ -18,7 +19,6 @@
  * @see     Ship
  * @see     IPosition
  */
-package iscteiul.ista.battleship;
 
 public class Barge extends Ship {
 
