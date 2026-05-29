@@ -8,9 +8,11 @@ O repositório foi criado por **Leonor Correia (122992)** pois a colega com meno
 | Nickname | Curso | Nome              | Número  |
 |----------|--------|------------------|---------|
 | iclr     | IGE    | Irina Munteanu   | 123029  |
-| iclr     | IGE    | Carolina Avelãs  | 123008  |
+| iclr     | IGE    | Carolina Avelãs *| 123008  |
 | iclr     | IGE    | Leonor Correia   | 122992  |
 | iclr     | IGE    | Raquel Almeida   | 122982  |
+
+*por erro técnico, a minha outra conta (the-bat-harpy) fez um commit
 
 ## Tipos de Navios
 
@@ -41,3 +43,21 @@ O repositório foi criado por **Leonor Correia (122992)** pois a colega com meno
 
 ### 4. Condição de Vitória
 * Ganha o jogo o primeiro jogador que conseguir **atingir e afundar todos os navios** da frota adversária.
+
+### 5. Mais informação
+## Links úteis (Descobrimentos)
+
+### Wikipedia (navios da época)
+- Galeão (Galleon): https://en.wikipedia.org/wiki/Galleon
+- Fragata (Frigate): https://en.wikipedia.org/wiki/Frigate
+- Nau (Carrack): https://en.wikipedia.org/wiki/Carrack
+- Caravela (Caravel): https://en.wikipedia.org/wiki/Caravel
+- Barca (Barge): https://en.wikipedia.org/wiki/Barge
+
+### Imagens / pesquisa rápida
+- Galeão (imagens): https://www.google.com/search?tbm=isch&q=galleon+ship
+- Fragata (imagens): https://www.google.com/search?tbm=isch&q=frigate+sailing+ship
+- Nau / Carrack (imagens): https://www.google.com/search?tbm=isch&q=carrack+ship
+- Caravela (imagens): https://www.google.com/search?tbm=isch&q=caravel+ship
+- Barca / Barge (imagens): https://www.google.com/search?tbm=isch&q=barge+ship
+
