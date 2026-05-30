@@ -89,7 +89,6 @@ public class Tasks {
      *   &lt;row2&gt; &lt;col2&gt;
      *   &lt;row3&gt; &lt;col3&gt;
      * </pre>
-     * </p>
      */
     public static void taskA() {
         Scanner in = new Scanner(System.in);

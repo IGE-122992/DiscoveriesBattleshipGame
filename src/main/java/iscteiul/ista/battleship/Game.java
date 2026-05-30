@@ -65,7 +65,6 @@ public class Game implements IGame {
      *     <li>Checks if the shot was already fired</li>
      *     <li>Registers hits and sunk ships</li>
      * </ul>
-     * </p>
      *
      * @param pos the position to fire at
      * @return the ship that was sunk by this shot, or {@code null} if no ship was sunk
